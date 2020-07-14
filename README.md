@@ -6,3 +6,10 @@ If you don't have googletrans, then you can download it by typing: "pip install 
 Command Prompt or Anaconda Prompt.<hr>
 <b>Note: You would need an active internet in order to run this code.</b><br>
 To know more about googletrans visit: https://py-googletrans.readthedocs.io/en/latest/
+
+1.text_translator.ipynb - Contains the code used for accomplishing the tasks.<br>
+2.Translator.txt - File used for saving the translated texts.<br>
+3.Translator.jpg - Image used in text_translator.ipynb.<br>
+
+<b>Note: If you have trouble opening the jupyter file then click on below link:</b><br>
+https://nbviewer.jupyter.org/github/Mohan-Gupta/Python-Text-Translation/blob/master/text_Translator.ipynb
